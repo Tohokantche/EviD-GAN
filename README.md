@@ -2,4 +2,4 @@
 
 Evidential Discriminator for GAN
 
-A curated version of this repo will come very soon!
+A modular and curated version of this repo will come very soon!
