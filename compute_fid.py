@@ -13,7 +13,7 @@ import random
 # Paths
 dataset="CIFAR10"
 model=["EviD-GAN"] 
-stats_path = 'ps\\fid_stats_cifar10_train.npz' #"ps\\fid_stats_stl10_unlabel32.npz"   #fid_stats_cifar10_train.npz  cifar100_stats.npz# 
+stats_path = 'fid_stats\\fid_stats_cifar10_train.npz' #"fid_stats_stl10_unlabel32.npz"   #fid_stats_cifar10_train.npz  cifar100_stats.npz# 
 result=[]
 result2=[]
 record_num =0
