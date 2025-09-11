@@ -1,6 +1,6 @@
 # EviD-GAN: Improving GAN With an Infinite Set of Discriminators at Negligible Cost
 
-This repository contains code for our paper: "The residual generator: An improved divergence minimization framework for GAN"
+This repository contains code for our paper: "EviD-GAN: Improving GAN With an Infinite Set of Discriminators at Negligible Cost"
 
 - [Paper Link](https://ieeexplore.ieee.org/document/10639254)
   
