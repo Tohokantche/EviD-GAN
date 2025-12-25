@@ -19,7 +19,7 @@ If you use **EviD-GAN** in your research or applications, please consider citing
 ```bibtex
 @ARTICLE{10639254,
   author={Gnanha, Aurele Tohokantche and Cao, Wenming and Mao, Xudong and Wu, Si and Wong, Hau-San and Li, Qing},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  journal={IEEE Transactions on Neural Networks and Learning Systems, TNNLS}, 
   title={EviD-GAN: Improving GAN With an Infinite Set of Discriminators at Negligible Cost}, 
   year={2025},
   volume={36},
